@@ -7,6 +7,8 @@ public class NewMain {
 
     public static void main(String[] args) {
         
+        //SDASIDJSD
+        
         //SE INICIA EL PROGRAMA PRINCIPAL
         Login jLogin = new Login(); // Llamamos el Login
         jLogin.setVisible(true); // aqui el Loging es visible
